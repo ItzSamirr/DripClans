@@ -1,0 +1,7 @@
+name: DripClans
+version: '${project.version}'
+main: it.itzsamirr.dripclans.DripClans
+depend:
+  - SamirLib
+api-version: 1.13
+authors: [ ItzSamirr ]
