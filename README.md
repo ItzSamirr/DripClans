@@ -1,2 +1,2 @@
 # DripClans
-##To Be Continued...
+**To be continued..**
